@@ -10,5 +10,9 @@ def Quarter(x, y):
     else:
         return(0)
 x = float(input())
+while x = 0:
+    x = float(input())
 y = float(input())
+while y = 0:
+    y = float(input())
 print(Quarter(x, y))
