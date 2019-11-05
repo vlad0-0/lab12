@@ -1,6 +1,0 @@
-def PowerA3(a, b):
-  b = a*a*a
-  return b
-a = float(input())
-b = 0
-print(PowerA3(a, b))
