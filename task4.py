@@ -9,10 +9,11 @@ def Quarter(x, y):
         return(4)
     else:
         return(0)
-x = float(input())
-while x = 0:
+for i in range(3):
     x = float(input())
-y = float(input())
-while y = 0:
+    while x = 0:
+        x = float(input())
     y = float(input())
-print(Quarter(x, y))
+    while y = 0:
+        y = float(input())
+    print(Quarter(x, y))
