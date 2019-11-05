@@ -1,0 +1,5 @@
+def PowerA3(a, b):
+  b = a*a*a
+  return b
+a = float(input())
+print(PowerA3(a, b))
