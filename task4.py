@@ -8,7 +8,7 @@ def Quarter(x, y):
     elif x > 0 and y < 0:
         return(4)
     else:
-        return(0)
+        return(-1)
 for i in range(3):
     x = float(input())
     while x = 0:
